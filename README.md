@@ -1,12 +1,46 @@
-# React + Vite
+✨ Pokémon Maze Escape ✨
+Pokémon Maze Escape is a fun and interactive maze game built using React, HTML, CSS, and JavaScript. Players guide a Pokémon through a dynamically generated maze, avoiding obstacles and reaching the golden exit to win!
+🚀 Features
+🏆 Randomly Generated Mazes - Each playthrough offers a new challenge.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 Pokémon-Themed UI - Background, colours, and design fit the Pokémon universe.
 
-Currently, two official plugins are available:
+🎮 Keyboard Controls - Use arrow keys to navigate through the maze.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Winning Destination - Reach the glowing golden square to win.
 
-## Expanding the ESLint configuration
+🎉 Victory Message - Displays a unique "You Win!" message upon completion.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 New Maze Button - Easily generate a new maze with one click.
+
+🛠️ Technologies Used
+
+React (with Vite for fast development)
+
+HTML, CSS, JavaScript
+
+Deployed on Vercel
+
+🚀 Deployment
+
+The game is deployed on Vercel. You can play it live here:
+🔗 Play Pokémon Maze Escape
+
+🏗️ Future Enhancements
+
+🌀 Animated Pokémon characters for the player.
+
+🎶 Background music & sound effects.
+
+🔥 Different difficulty levels.
+
+🏆 Score tracking & leaderboard.
+
+🤝 Contributing
+
+Feel free to contribute by submitting issues or pull requests!
+
+🎮 Enjoy playing Pokémon Maze Escape! 🔥
+
+
+
